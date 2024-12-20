@@ -1,7 +1,3 @@
-### README for CAR-PUF Project
-
----
-
 #### **Project Overview**
 
 This repository contains the implementation and documentation of the **Companion Arbiter Physical Unclonable Function (CAR-PUF)**, an advanced PUF designed to enhance hardware security by leveraging unique manufacturing variations in Integrated Circuits (ICs). The CAR-PUF builds upon the traditional Arbiter PUF by introducing a companion structure, significantly increasing resistance to modeling attacks and enhancing overall system robustness.  
